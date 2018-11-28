@@ -110,7 +110,7 @@
 
     <properties>
         <!-- Version management -->
-        <commons.commons-bom.version>21.0.0-alpha-12</commons.commons-bom.version>
+        <commons.commons-bom.version>22.0.0-SNAPSHOT</commons.commons-bom.version>
         <!-- maven-compiler-plugin -->
         <maven.compiler.target>1.5</maven.compiler.target>
         <maven.compiler.source>1.5</maven.compiler.source>
